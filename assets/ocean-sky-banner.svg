@@ -6,13 +6,8 @@
       <stop offset="100%" stop-color="#DCEEFF" stop-opacity="0"/>
     </radialGradient>
 
-    <linearGradient id="wave3Grad" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%"  stop-color="#3FA0D8"/>
-      <stop offset="100%" stop-color="#1C5D8C"/>
-    </linearGradient>
-
     <filter id="softBlurSmall" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="2.5"/>
+      <feGaussianBlur stdDeviation="3.5"/> <!-- Tăng blur cho mây trông tự nhiên hơn -->
     </filter>
 
     <!-- Mask tạo hiệu ứng mờ dần lồng vào nền background -->
@@ -55,54 +50,7 @@
       <circle cx="1240" cy="58" r="24" fill="#0A1830" opacity="0.18"/>
     </g>
 
-    <!-- Moonlight reflection on the water -->
-    <g opacity="0.35">
-      <ellipse cx="1230" cy="215" rx="10" ry="4" fill="#DCEEFF">
-        <animate attributeName="opacity" values="0.15;0.5;0.15" dur="2.4s" repeatCount="indefinite"/>
-      </ellipse>
-      <ellipse cx="1215" cy="235" rx="18" ry="5" fill="#DCEEFF">
-        <animate attributeName="opacity" values="0.5;0.15;0.5" dur="2.8s" repeatCount="indefinite"/>
-      </ellipse>
-      <ellipse cx="1245" cy="258" rx="26" ry="6" fill="#DCEEFF">
-        <animate attributeName="opacity" values="0.15;0.45;0.15" dur="3.1s" repeatCount="indefinite"/>
-      </ellipse>
-      <ellipse cx="1220" cy="285" rx="34" ry="7" fill="#DCEEFF">
-        <animate attributeName="opacity" values="0.4;0.12;0.4" dur="2.6s" repeatCount="indefinite"/>
-      </ellipse>
-    </g>
-
-    <!-- Wave layer 1 : back, slow, subtle -->
-    <g opacity="0.5" fill="#123B5C">
-      <g>
-        <animateTransform attributeName="transform" type="translate" from="0 0" to="-1500 0" dur="14s" repeatCount="indefinite"/>
-        <path d="M0,222 C125,210 250,234 375,222 C500,210 625,234 750,222 C875,210 1000,234 1125,222 C1250,210 1375,234 1500,222 L1500,320 L0,320 Z"/>
-        <path d="M0,222 C125,210 250,234 375,222 C500,210 625,234 750,222 C875,210 1000,234 1125,222 C1250,210 1375,234 1500,222 L1500,320 L0,320 Z" transform="translate(1500 0)"/>
-      </g>
-    </g>
-
-    <!-- Wave layer 2 : mid -->
-    <g opacity="0.68" fill="#175C8A">
-      <g>
-        <animateTransform attributeName="transform" type="translate" from="0 0" to="-1500 0" dur="9.5s" repeatCount="indefinite"/>
-        <path d="M0,252 C125,238 250,266 375,252 C500,238 625,266 750,252 C875,238 1000,266 1125,252 C1250,238 1375,266 1500,252 L1500,320 L0,320 Z"/>
-        <path d="M0,252 C125,238 250,266 375,252 C500,238 625,266 750,252 C875,238 1000,266 1125,252 C1250,238 1375,266 1500,252 L1500,320 L0,320 Z" transform="translate(1500 0)"/>
-      </g>
-    </g>
-
-    <!-- Wave layer 3 : front, brightest, fastest, with foam crest -->
-    <g>
-      <animateTransform attributeName="transform" type="translate" from="0 0" to="-1500 0" dur="6.5s" repeatCount="indefinite"/>
-      <g opacity="0.92" fill="url(#wave3Grad)">
-        <path d="M0,282 C125,266 250,298 375,282 C500,266 625,298 750,282 C875,266 1000,298 1125,282 C1250,266 1375,298 1500,282 L1500,320 L0,320 Z"/>
-        <path d="M0,282 C125,266 250,298 375,282 C500,266 625,298 750,282 C875,266 1000,298 1125,282 C1250,266 1375,298 1500,282 L1500,320 L0,320 Z" transform="translate(1500 0)"/>
-      </g>
-      <g fill="none" stroke="#EAF7FF" stroke-width="2" opacity="0.4" filter="url(#softBlurSmall)">
-        <path d="M0,282 C125,266 250,298 375,282 C500,266 625,298 750,282 C875,266 1000,298 1125,282 C1250,266 1375,298 1500,282"/>
-        <path d="M0,282 C125,266 250,298 375,282 C500,266 625,298 750,282 C875,266 1000,298 1125,282 C1250,266 1375,298 1500,282" transform="translate(1500 0)"/>
-      </g>
-    </g>
-
-    <!-- Surface sparkle / glints -->
+    <!-- Surface sparkle / glints - Giữ lại để lấp lánh giữa các tầng mây -->
     <g fill="#FFFFFF">
       <ellipse cx="220" cy="288" rx="3" ry="1.2" opacity="0.5"><animate attributeName="opacity" values="0;0.7;0" dur="2.2s" begin="0.2s" repeatCount="indefinite"/></ellipse>
       <ellipse cx="480" cy="292" rx="2.4" ry="1" opacity="0.5"><animate attributeName="opacity" values="0;0.6;0" dur="2.6s" begin="0.9s" repeatCount="indefinite"/></ellipse>
@@ -110,6 +58,78 @@
       <ellipse cx="980" cy="294" rx="2.6" ry="1" opacity="0.5"><animate attributeName="opacity" values="0;0.6;0" dur="2.1s" begin="0.5s" repeatCount="indefinite"/></ellipse>
       <ellipse cx="1120" cy="288" rx="3" ry="1.2" opacity="0.5"><animate attributeName="opacity" values="0;0.7;0" dur="2.8s" begin="1.6s" repeatCount="indefinite"/></ellipse>
       <ellipse cx="1380" cy="292" rx="2.4" ry="1" opacity="0.5"><animate attributeName="opacity" values="0;0.6;0" dur="2.3s" begin="0.7s" repeatCount="indefinite"/></ellipse>
+    </g>
+
+    <!-- Cloud Layer 1 (Tầng mây xa, mờ nhất, bay chậm nhất) -->
+    <g fill="#B2C9E1" filter="url(#softBlurSmall)">
+      <!-- Cloud 1.1 -->
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="1600 0; -300 0" dur="28s" begin="-8s" repeatCount="indefinite"/>
+        <path d="M50,225 Q90,210 130,225 T190,225 Q230,240 270,225 Z" opacity="0.15"/>
+      </g>
+      <!-- Cloud 1.2 -->
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="1600 0; -300 0" dur="31s" begin="-14s" repeatCount="indefinite"/>
+        <path d="M400,230 Q440,215 480,230 T540,230 Q580,245 620,230 Z" opacity="0.12"/>
+      </g>
+      <!-- Cloud 1.3 -->
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="1600 0; -300 0" dur="26s" begin="-3s" repeatCount="indefinite"/>
+        <path d="M800,220 Q840,205 880,220 T940,220 Q980,235 1020,220 Z" opacity="0.18"/>
+      </g>
+      <!-- Cloud 1.4 -->
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="1600 0; -300 0" dur="33s" begin="-19s" repeatCount="indefinite"/>
+        <path d="M1200,228 Q1240,213 1280,228 T1340,228 Q1380,243 1420,228 Z" opacity="0.14"/>
+      </g>
+    </g>
+
+    <!-- Cloud Layer 2 (Tầng mây vừa, độ mờ trung bình, tốc độ trung bình) -->
+    <g fill="#DCEEFF" filter="url(#softBlurSmall)">
+      <!-- Cloud 2.1 -->
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="1600 0; -300 0" dur="18s" begin="-4s" repeatCount="indefinite"/>
+        <path d="M150,245 Q190,230 230,245 T290,245 Q330,260 370,245 Z" opacity="0.25"/>
+      </g>
+      <!-- Cloud 2.2 -->
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="1600 0; -300 0" dur="16s" begin="-9s" repeatCount="indefinite"/>
+        <path d="M600,252 Q640,237 680,252 T740,252 Q780,267 820,252 Z" opacity="0.28"/>
+      </g>
+      <!-- Cloud 2.3 -->
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="1600 0; -300 0" dur="20s" begin="-14s" repeatCount="indefinite"/>
+        <path d="M1000,242 Q1040,227 1080,242 T1140,242 Q1180,257 1220,242 Z" opacity="0.22"/>
+      </g>
+      <!-- Cloud 2.4 -->
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="1600 0; -300 0" dur="17s" begin="-1s" repeatCount="indefinite"/>
+        <path d="M1350,250 Q1390,235 1430,250 T1490,250 Q1530,265 1570,250 Z" opacity="0.32"/>
+      </g>
+    </g>
+
+    <!-- Cloud Layer 3 (Tầng mây gần, rõ nhất, bay nhanh nhất) -->
+    <g fill="#FFFFFF" filter="url(#softBlurSmall)">
+      <!-- Cloud 3.1 -->
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="1600 0; -300 0" dur="11s" begin="-2s" repeatCount="indefinite"/>
+        <path d="M300,270 Q340,255 380,270 T440,270 Q480,285 520,270 Z" opacity="0.45"/>
+      </g>
+      <!-- Cloud 3.2 -->
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="1600 0; -300 0" dur="9s" begin="-6s" repeatCount="indefinite"/>
+        <path d="M750,280 Q790,265 830,280 T890,280 Q930,295 970,280 Z" opacity="0.55"/>
+      </g>
+      <!-- Cloud 3.3 -->
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="1600 0; -300 0" dur="12s" begin="-10s" repeatCount="indefinite"/>
+        <path d="M1100,275 Q1140,260 1180,275 T1240,275 Q1280,290 1320,275 Z" opacity="0.48"/>
+      </g>
+      <!-- Cloud 3.4 -->
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="1600 0; -300 0" dur="10s" begin="-4s" repeatCount="indefinite"/>
+        <path d="M50,288 Q90,273 130,288 T190,288 Q230,303 270,288 Z" opacity="0.52"/>
+      </g>
     </g>
   </g>
 </svg>
