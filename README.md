@@ -1,5 +1,11 @@
 <div align="center">
 
+<img src="./assets/sky-clouds.svg" width="100%" alt="Sky and clouds banner" />
+
+</div>
+
+<div align="center">
+
 <!-- Floating decorative elements -->
 <table align="center" style="border: none; background-color: transparent;">
   <tr>
@@ -13,52 +19,73 @@
 
 <br>
 
-<!-- Header with Static Text -->
+<!-- Header text -->
 <table align="center" style="border: none; background-color: transparent;">
   <tr>
     <td><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZjdGlwNmh2ejlsbXU1cHY1OGpoMnVrbm1iemdxdTc2b3Jyem44eiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/8AZKrYCHtOVOWGIQld/giphy.gif" width="60" /></td>
     <td>
-      <h2 style="color:#00BFFF; margin: 0; padding: 0;">Software Engineering Enthusiast</h2>
-      <p style="color:#87CEEB; margin: 5px 0 0 0; font-weight: bold;">Building clean solutions | Exploring new tech stacks</p>
+      <h3 style="color:#00BFFF; font-family: 'Montserrat', sans-serif; font-weight: 700; margin: 0 15px;">Computer Networks Student</h3>
     </td>
     <td><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZjdGlwNmh2ejlsbXU1cHY1OGpoMnVrbm1iemdxdTc2b3Jyem44eiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/MhYz6xvracpiw/giphy.gif" width="60" /></td>
   </tr>
 </table>
 
-<!-- Static Separator -->
-<hr style="border: 1px solid #00BFFF; width: 80%; margin: 30px auto;" />
+<br><br>
+
+<!-- Snake animation eating the contribution grid -->
+<table align="center" style="border: none; background-color: transparent;">
+  <tr>
+    <td>
+      <img alt="Snake animation eating the contribution grid" src="https://raw.githubusercontent.com/windgl/windgl/output/github-contribution-grid-snake-dark.svg" width="750" />
+    </td>
+  </tr>
+</table>
+
+<br>
 
 <!-- Contribution Activity -->
 <table align="center" style="border: none; background-color: transparent;">
   <tr>
     <td><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZjdGlwNmh2ejlsbXU1cHY1OGpoMnVrbm1iemdxdTc2b3Jyem44eiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/yuD5M8ZFkI53O/giphy.gif" width="55" /></td>
-    <td><h2 style="color:#00BFFF; margin: 0 15px; text-transform: uppercase;">Contribution Activity</h2></td>
+    <td><h2 style="color:#00BFFF; font-family: 'Montserrat', sans-serif; font-weight: 800; margin: 0 15px; text-transform: uppercase;">Contribution Activity</h2></td>
     <td><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZjdGlwNmh2ejlsbXU1cHY1OGpoMnVrbm1iemdxdTc2b3Jyem44eiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/3xpJGsRMlUyzK/giphy.gif" width="55" /></td>
   </tr>
 </table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=windgl&bg_color=0D1117&color=00BFFF&line=1E90FF&point=FFFFFF&area=true&hide_border=false&border_color=00BFFF&border_radius=10&title_color=87CEEB&v=1" alt="Activity Graph" width="750" />
+<table align="center" style="border: none; background-color: transparent;">
+  <tr>
+    <td>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=windgl&bg_color=0D1117&color=00BFFF&line=1E90FF&point=FFFFFF&area=true&hide_border=false&border_color=00BFFF&border_radius=10&title_color=87CEEB&v=1" alt="Activity Graph" width="750" />
+    </td>
+  </tr>
+</table>
 
-<br><br>
+<br>
 
 <!-- Contribution Grid -->
 <table align="center" style="border: none; background-color: transparent;">
   <tr>
     <td><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3a3ljY3J4NXJrdGdsMmI5NDc3cjEwb3Bsd2luc3Uwa240b2hmMXAxZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/C0L6c8KLHAiY0/giphy.gif" width="55" /></td>
-    <td><h2 style="color:#1E90FF; margin: 0 15px; text-transform: uppercase;">Contribution Grid</h2></td>
+    <td><h2 style="color:#1E90FF; font-family: 'Montserrat', sans-serif; font-weight: 800; margin: 0 15px; text-transform: uppercase;">Contribution Grid</h2></td>
     <td><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Zjk3b2t3ZjdmaTBuOWYyZjIwbm1mbzRwczljMmNleTNtcmIzZHpxbSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/4DbNg6qOjpHazfpmlA/giphy.gif" width="55" /></td>
   </tr>
 </table>
 
-<img src="https://ghchart.rshah.org/00BFFF/windgl" alt="Contribution Grid" width="750" />
+<table align="center" style="border: none; background-color: transparent;">
+  <tr>
+    <td>
+      <img src="https://ghchart.rshah.org/00BFFF/windgl?v=1" alt="Contribution Grid" width="750" />
+    </td>
+  </tr>
+</table>
 
-<br><br>
+<br>
 
 <!-- GitHub Stats -->
 <table align="center" style="border: none; background-color: transparent;">
   <tr>
     <td><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z2duYnYyN3V6b25mbHpoeDRmaWc2aHdsaXVtZGdqaHpoMWFuY3VyNiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/M0Wi576l2mJbNhrXwh/giphy.gif" width="55" /></td>
-    <td><h2 style="color:#4169E1; margin: 0 15px; text-transform: uppercase;">GitHub Stats</h2></td>
+    <td><h2 style="color:#4169E1; font-family: 'Montserrat', sans-serif; font-weight: 800; margin: 0 15px; text-transform: uppercase;">GitHub Stats</h2></td>
     <td><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aW9pc3IyN3ozeGd0eTZybzJ2Z2p4amk3N3lkcWV3cG5vZDJvbnNsZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ErSGTG65qORKo/giphy.gif" width="55" /></td>
   </tr>
 </table>
@@ -76,7 +103,31 @@
   </tr>
 </table>
 
-<!-- Static Separator -->
-<hr style="border: 1px solid #00BFFF; width: 80%; margin: 30px auto;" />
+<br>
+
+<!-- Streak stats + Trophies -->
+<table align="center" style="border: none; background-color: transparent;">
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=windgl&background=0D1117&border=1E90FF&stroke=00BFFF&ring=00BFFF&fire=1E90FF&currStreakLabel=00BFFF&sideLabels=87CEEB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=87CEEB" alt="GitHub Streak Stats" width="420" />
+    </td>
+  </tr>
+</table>
+
+<table align="center" style="border: none; background-color: transparent;">
+  <tr>
+    <td>
+      <img src="https://github-profile-trophy.vercel.app/?username=windgl&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" width="750" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="./assets/waves.svg" width="100%" alt="Sea and waves banner" />
 
 </div>
