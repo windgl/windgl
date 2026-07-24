@@ -1,10 +1,9 @@
 <div align="center">
 
-<img src="./assets/sky-clouds.svg" width="100%" alt="Sky and clouds banner" />
+<!-- Night sky + ocean hero banner (assets/ocean-sky-banner.svg) -->
+<img src="assets/ocean-sky-banner.svg" width="100%" alt="Night sky and ocean banner" />
 
-</div>
-
-<div align="center">
+<br>
 
 <!-- Floating decorative elements -->
 <table align="center" style="border: none; background-color: transparent;">
@@ -32,11 +31,23 @@
 
 <br><br>
 
-<!-- Snake animation eating the contribution grid -->
+<!-- Contribution Snake -->
+<table align="center" style="border: none; background-color: transparent;">
+  <tr>
+    <td><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZjdGlwNmh2ejlsbXU1cHY1OGpoMnVrbm1iemdxdTc2b3Jyem44eiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/LbUYCbgVZUkai24CaF/giphy.gif" width="55" /></td>
+    <td><h2 style="color:#00BFFF; font-family: 'Montserrat', sans-serif; font-weight: 800; margin: 0 15px; text-transform: uppercase;">Contribution Snake</h2></td>
+    <td><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZjdGlwNmh2ejlsbXU1cHY1OGpoMnVrbm1iemdxdTc2b3Jyem44eiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/hFYtHWiPqNZuEsXm8q/giphy.gif" width="55" /></td>
+  </tr>
+</table>
+
 <table align="center" style="border: none; background-color: transparent;">
   <tr>
     <td>
-      <img alt="Snake animation eating the contribution grid" src="https://raw.githubusercontent.com/windgl/windgl/output/github-contribution-grid-snake-dark.svg" width="750" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/windgl/windgl/output/github-contribution-grid-snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/windgl/windgl/output/github-contribution-grid-snake.svg" />
+        <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/windgl/windgl/output/github-contribution-grid-snake-dark.svg" width="750" />
+      </picture>
     </td>
   </tr>
 </table>
@@ -55,7 +66,7 @@
 <table align="center" style="border: none; background-color: transparent;">
   <tr>
     <td>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=windgl&bg_color=0D1117&color=00BFFF&line=1E90FF&point=FFFFFF&area=true&hide_border=false&border_color=00BFFF&border_radius=10&title_color=87CEEB&v=1" alt="Activity Graph" width="750" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=windgl&bg_color=0D1117&color=00BFFF&line=1E90FF&point=FFFFFF&area=true&area_color=1E90FF&hide_border=false&border_color=00BFFF&border_radius=10&title_color=87CEEB&v=1" alt="Activity Graph" width="750" />
     </td>
   </tr>
 </table>
@@ -105,29 +116,17 @@
 
 <br>
 
-<!-- Streak stats + Trophies -->
 <table align="center" style="border: none; background-color: transparent;">
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=windgl&background=0D1117&border=1E90FF&stroke=00BFFF&ring=00BFFF&fire=1E90FF&currStreakLabel=00BFFF&sideLabels=87CEEB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=87CEEB" alt="GitHub Streak Stats" width="420" />
+      <img src="https://streak-stats.demolab.com/?user=windgl&background=0D1117&border=1E90FF&stroke=1E90FF&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&sideLabels=87CEEB&sideNums=FFFFFF&dates=87CEEB&currStreakNum=FFFFFF" alt="GitHub Streak Stats" width="750" />
     </td>
   </tr>
 </table>
 
-<table align="center" style="border: none; background-color: transparent;">
-  <tr>
-    <td>
-      <img src="https://github-profile-trophy.vercel.app/?username=windgl&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" width="750" />
-    </td>
-  </tr>
-</table>
+<br><br>
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="./assets/waves.svg" width="100%" alt="Sea and waves banner" />
+<!-- Ocean footer -->
+<img src="assets/ocean-footer.svg" width="100%" alt="Ocean wave footer" />
 
 </div>
