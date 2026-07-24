@@ -31,7 +31,7 @@
 
 <br><br>
 
-<!-- Contribution Grid (Gộp chung Snake và Grid) -->
+<!-- Contribution Grid -->
 <table align="center" style="border: none; background-color: transparent;">
   <tr>
     <td><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZjdGlwNmh2ejlsbXU1cHY1OGpoMnVrbm1iemdxdTc2b3Jyem44eiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/LbUYCbgVZUkai24CaF/giphy.gif" width="55" /></td>
@@ -102,7 +102,7 @@
 <table align="center" style="border: none; background-color: transparent;">
   <tr>
     <td>
-      <img src="https://streak-stats.demolab.com/?user=windgl&background=0D1117&border=1E90FF&stroke=1E90FF&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&sideLabels=87CEEB&sideNums=FFFFFF&dates=87CEEB&currStreakNum=FFFFFF" alt="GitHub Streak Stats" width="750" />
+      <img src="https://streak-stats.demolab.com/?user=windgl&background=transparent&hide_border=true&stroke=1E90FF&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&sideLabels=87CEEB&sideNums=00BFFF&dates=87CEEB&currStreakNum=00BFFF" alt="GitHub Streak Stats" width="750" />
     </td>
   </tr>
 </table>
