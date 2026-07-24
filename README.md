@@ -31,11 +31,13 @@
 
 <br><br>
 
-<!-- Contribution Snake -->
+<!-- Contribution Grid (Gộp chung Snake và Grid) -->
 <table align="center" style="border: none; background-color: transparent;">
   <tr>
     <td><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZjdGlwNmh2ejlsbXU1cHY1OGpoMnVrbm1iemdxdTc2b3Jyem44eiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/LbUYCbgVZUkai24CaF/giphy.gif" width="55" /></td>
-    <td><h2 style="color:#00BFFF; font-family: 'Montserrat', sans-serif; font-weight: 800; margin: 0 15px; text-transform: uppercase;">Contribution Snake</h2></td>
+    <td><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3a3ljY3J4NXJrdGdsMmI5NDc3cjEwb3Bsd2luc3Uwa240b2hmMXAxZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/C0L6c8KLHAiY0/giphy.gif" width="55" /></td>
+    <td><h2 style="color:#1E90FF; font-family: 'Montserrat', sans-serif; font-weight: 800; margin: 0 15px; text-transform: uppercase;">Contribution Grid</h2></td>
+    <td><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Zjk3b2t3ZjdmaTBuOWYyZjIwbm1mbzRwczljMmNleTNtcmIzZHpxbSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/4DbNg6qOjpHazfpmlA/giphy.gif" width="55" /></td>
     <td><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZjdGlwNmh2ejlsbXU1cHY1OGpoMnVrbm1iemdxdTc2b3Jyem44eiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/hFYtHWiPqNZuEsXm8q/giphy.gif" width="55" /></td>
   </tr>
 </table>
@@ -67,25 +69,6 @@
   <tr>
     <td>
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=windgl&bg_color=0D1117&color=00BFFF&line=1E90FF&point=FFFFFF&area=true&area_color=1E90FF&hide_border=false&border_color=00BFFF&border_radius=10&title_color=87CEEB&v=1" alt="Activity Graph" width="750" />
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<!-- Contribution Grid -->
-<table align="center" style="border: none; background-color: transparent;">
-  <tr>
-    <td><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3a3ljY3J4NXJrdGdsMmI5NDc3cjEwb3Bsd2luc3Uwa240b2hmMXAxZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/C0L6c8KLHAiY0/giphy.gif" width="55" /></td>
-    <td><h2 style="color:#1E90FF; font-family: 'Montserrat', sans-serif; font-weight: 800; margin: 0 15px; text-transform: uppercase;">Contribution Grid</h2></td>
-    <td><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Zjk3b2t3ZjdmaTBuOWYyZjIwbm1mbzRwczljMmNleTNtcmIzZHpxbSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/4DbNg6qOjpHazfpmlA/giphy.gif" width="55" /></td>
-  </tr>
-</table>
-
-<table align="center" style="border: none; background-color: transparent;">
-  <tr>
-    <td>
-      <img src="https://ghchart.rshah.org/00BFFF/windgl?v=1" alt="Contribution Grid" width="750" />
     </td>
   </tr>
 </table>
