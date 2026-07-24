@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Night sky + ocean hero banner (assets/ocean-sky-banner.svg) -->
-<img src="assets/ocean-sky-banner.svg" width="100%" alt="Night sky and ocean banner" />
+
 
 <br>
 
@@ -109,7 +108,6 @@
 
 <br><br>
 
-<!-- Ocean footer -->
-<img src="assets/ocean-footer.svg" width="100%" alt="Ocean wave footer" />
+
 
 </div>
