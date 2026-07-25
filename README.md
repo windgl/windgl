@@ -34,12 +34,12 @@ A student of computer networks with a focus on network architecture, protocol de
 
 ### Technical Focus
 
-<img src="https://img.shields.io/badge/Linux-1B263B?style=for-the-badge&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-415A77?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Cisco-778DA9?style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-1B263B?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-415A77?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Wireshark-778DA9?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/React-1B263B?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-415A77?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-778DA9?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-1B263B?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-415A77?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/AI-778DA9?style=for-the-badge&logo=sparkles&logoColor=white" />
 
 </div>
 
