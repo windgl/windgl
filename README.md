@@ -1,113 +1,99 @@
 <div align="center">
 
+<br>
 
+<h1 style="font-family: 'Georgia', serif; font-weight: 700; letter-spacing: 2px; color:#1B263B; margin-bottom: 4px;">WINDGL</h1>
+
+<p style="font-family: 'Helvetica Neue', sans-serif; font-size: 15px; letter-spacing: 4px; text-transform: uppercase; color:#778DA9; margin-top: 0;">Computer Networks Student</p>
 
 <br>
 
-<!-- Floating decorative elements -->
-<table align="center" style="border: none; background-color: transparent;">
-  <tr>
-    <td><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZjdGlwNmh2ejlsbXU1cHY1OGpoMnVrbm1iemdxdTc2b3Jyem44eiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/26mgiE2JE6VAVtMB98/giphy.gif" width="55" /></td>
-    <td><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZjdGlwNmh2ejlsbXU1cHY1OGpoMnVrbm1iemdxdTc2b3Jyem44eiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/UUhlV5Zo711KxUt9Oa/giphy.gif" width="55" /></td>
-    <td><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZjdGlwNmh2ejlsbXU1cHY1OGpoMnVrbm1iemdxdTc2b3Jyem44eiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/6Ia3wAPQIC4b3f1v3A/giphy.gif" width="55" /></td>
-    <td><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZjdGlwNmh2ejlsbXU1cHY1OGpoMnVrbm1iemdxdTc2b3Jyem44eiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/LbUYCbgVZUkai24CaF/giphy.gif" width="55" /></td>
-    <td><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZjdGlwNmh2ejlsbXU1cHY1OGpoMnVrbm1iemdxdTc2b3Jyem44eiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/hFYtHWiPqNZuEsXm8q/giphy.gif" width="55" /></td>
-  </tr>
-</table>
-
-<br>
-
-<!-- Header text -->
-<table align="center" style="border: none; background-color: transparent;">
-  <tr>
-    <td><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZjdGlwNmh2ejlsbXU1cHY1OGpoMnVrbm1iemdxdTc2b3Jyem44eiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/8AZKrYCHtOVOWGIQld/giphy.gif" width="60" /></td>
-    <td>
-      <h3 style="color:#00BFFF; font-family: 'Montserrat', sans-serif; font-weight: 700; margin: 0 15px;">Computer Networks Student</h3>
-    </td>
-    <td><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZjdGlwNmh2ejlsbXU1cHY1OGpoMnVrbm1iemdxdTc2b3Jyem44eiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/MhYz6xvracpiw/giphy.gif" width="60" /></td>
-  </tr>
-</table>
+<img src="https://img.shields.io/badge/-Networking-1B263B?style=flat-square" />
+<img src="https://img.shields.io/badge/-Systems-415A77?style=flat-square" />
+<img src="https://img.shields.io/badge/-Infrastructure-778DA9?style=flat-square" />
 
 <br><br>
 
-<!-- Contribution Grid -->
-<table align="center" style="border: none; background-color: transparent;">
-  <tr>
-    <td><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZjdGlwNmh2ejlsbXU1cHY1OGpoMnVrbm1iemdxdTc2b3Jyem44eiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/LbUYCbgVZUkai24CaF/giphy.gif" width="55" /></td>
-    <td><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3a3ljY3J4NXJrdGdsMmI5NDc3cjEwb3Bsd2luc3Uwa240b2hmMXAxZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/C0L6c8KLHAiY0/giphy.gif" width="55" /></td>
-    <td><h2 style="color:#1E90FF; font-family: 'Montserrat', sans-serif; font-weight: 800; margin: 0 15px; text-transform: uppercase;">Contribution Grid</h2></td>
-    <td><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Zjk3b2t3ZjdmaTBuOWYyZjIwbm1mbzRwczljMmNleTNtcmIzZHpxbSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/4DbNg6qOjpHazfpmlA/giphy.gif" width="55" /></td>
-    <td><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZjdGlwNmh2ejlsbXU1cHY1OGpoMnVrbm1iemdxdTc2b3Jyem44eiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/hFYtHWiPqNZuEsXm8q/giphy.gif" width="55" /></td>
-  </tr>
-</table>
+</div>
+
+---
+
+<div align="center">
+
+### About
+
+<p align="left" style="max-width: 700px;">
+A student of computer networks with a focus on network architecture, protocol design, and systems infrastructure. Interested in the design and administration of reliable, secure, and scalable network systems.
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+### Technical Focus
+
+<img src="https://img.shields.io/badge/Linux-1B263B?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-415A77?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Cisco-778DA9?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-1B263B?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-415A77?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-778DA9?style=for-the-badge&logo=wireshark&logoColor=white" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Contribution Overview
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/windgl/windgl/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/windgl/windgl/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution grid" src="https://raw.githubusercontent.com/windgl/windgl/output/github-contribution-grid-snake-dark.svg" width="750" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+### Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=windgl&bg_color=0D1117&color=778DA9&line=415A77&point=FFFFFF&area=true&area_color=1B263B&hide_border=true&radius=10&title_color=778DA9" alt="Activity graph" width="750" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Statistics
 
 <table align="center" style="border: none; background-color: transparent;">
   <tr>
     <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/windgl/windgl/output/github-contribution-grid-snake-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/windgl/windgl/output/github-contribution-grid-snake.svg" />
-        <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/windgl/windgl/output/github-contribution-grid-snake-dark.svg" width="750" />
-      </picture>
+      <img src="https://github-readme-stats.vercel.app/api?username=windgl&show_icons=true&hide_title=true&count_private=true&hide=prs&bg_color=0D1117&hide_border=true&text_color=778DA9&icon_color=415A77&title_color=778DA9" alt="GitHub statistics" width="400" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=windgl&layout=compact&hide_title=true&bg_color=0D1117&hide_border=true&text_color=778DA9&icon_color=415A77&title_color=778DA9" alt="Top languages" width="400" />
     </td>
   </tr>
 </table>
 
 <br>
 
-<!-- Contribution Activity -->
-<table align="center" style="border: none; background-color: transparent;">
-  <tr>
-    <td><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZjdGlwNmh2ejlsbXU1cHY1OGpoMnVrbm1iemdxdTc2b3Jyem44eiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/yuD5M8ZFkI53O/giphy.gif" width="55" /></td>
-    <td><h2 style="color:#00BFFF; font-family: 'Montserrat', sans-serif; font-weight: 800; margin: 0 15px; text-transform: uppercase;">Contribution Activity</h2></td>
-    <td><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZjdGlwNmh2ejlsbXU1cHY1OGpoMnVrbm1iemdxdTc2b3Jyem44eiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/3xpJGsRMlUyzK/giphy.gif" width="55" /></td>
-  </tr>
-</table>
+<img src="https://streak-stats.demolab.com/?user=windgl&background=0D1117&hide_border=true&stroke=1B263B&ring=778DA9&fire=778DA9&currStreakLabel=778DA9&sideLabels=415A77&sideNums=778DA9&dates=415A77&currStreakNum=778DA9" alt="Contribution streak" width="750" />
 
-<table align="center" style="border: none; background-color: transparent;">
-  <tr>
-    <td>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=windgl&bg_color=0D1117&color=00BFFF&line=1E90FF&point=FFFFFF&area=true&area_color=1E90FF&hide_border=false&border_color=00BFFF&border_radius=10&title_color=87CEEB&v=1" alt="Activity Graph" width="750" />
-    </td>
-  </tr>
-</table>
+</div>
 
-<br>
+---
 
-<!-- GitHub Stats -->
-<table align="center" style="border: none; background-color: transparent;">
-  <tr>
-    <td><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z2duYnYyN3V6b25mbHpoeDRmaWc2aHdsaXVtZGdqaHpoMWFuY3VyNiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/M0Wi576l2mJbNhrXwh/giphy.gif" width="55" /></td>
-    <td><h2 style="color:#4169E1; font-family: 'Montserrat', sans-serif; font-weight: 800; margin: 0 15px; text-transform: uppercase;">GitHub Stats</h2></td>
-    <td><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aW9pc3IyN3ozeGd0eTZybzJ2Z2p4amk3N3lkcWV3cG5vZDJvbnNsZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ErSGTG65qORKo/giphy.gif" width="55" /></td>
-  </tr>
-</table>
+<div align="center">
 
-<table align="center" style="border: none; background-color: transparent;">
-  <tr>
-    <td><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3emVwcDQ0cmZ4ZXN6MzRrZ3pxbjRzOXcwY2N0ZG92N2ZnMDFmZzRxciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/IEVrE6Nep0qhfVwzCt/giphy.gif" width="60" /></td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=windgl&show_icons=true&hide_title=true&count_private=true&hide=prs&bg_color=0D1117&hide_border=false&border_color=1E90FF&border_radius=10&text_color=87CEEB&icon_color=00BFFF&title_color=1E90FF&v=1" alt="GitHub Stats" width="400" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=windgl&layout=compact&hide_title=true&bg_color=0D1117&hide_border=false&border_color=1E90FF&border_radius=10&text_color=87CEEB&icon_color=00BFFF&title_color=1E90FF&v=1" alt="Top Languages" width="400" />
-    </td>
-    <td><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZjUwaDVhajd4MG5sbWx2ZTZrdHkyNjQ2eDJ2bWc5M2JucDJmb3d4dyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/WYFyGe1SnsTBu/giphy.gif" width="60" /></td>
-  </tr>
-</table>
-
-<br>
-
-<table align="center" style="border: none; background-color: transparent;">
-  <tr>
-    <td>
-      <img src="https://streak-stats.demolab.com/?user=windgl&background=transparent&hide_border=true&stroke=1E90FF&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&sideLabels=87CEEB&sideNums=00BFFF&dates=87CEEB&currStreakNum=00BFFF" alt="GitHub Streak Stats" width="750" />
-    </td>
-  </tr>
-</table>
-
-<br><br>
-
-
+<sub style="color:#778DA9;">Last updated automatically via GitHub profile statistics</sub>
 
 </div>
